@@ -113,4 +113,4 @@ TBD.
 
 ## Author
 
-Dilyora — built as part of Alpha Project (Akatsuki Project).
+Dilyora
