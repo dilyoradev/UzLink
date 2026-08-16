@@ -12,7 +12,7 @@ in one system instead of spreadsheets, email, and LINE/Telegram chats.
 ![license](https://img.shields.io/badge/license-TBD-lightgrey)
 
 <p align="center">
-  <img src="./docs/dashboard-screenshot.png" alt="UzuLink Work agency dashboard pipeline board and document checklist" width="850" />
+  <img src="src/docs/dashboard-screenshot.png" />
 </p>
 
 ---
